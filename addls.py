@@ -5,4 +5,3 @@ if a==b:
     print(str1)
 else:
     print('Is'+str1)
-© 2019 GitHub, Inc.
